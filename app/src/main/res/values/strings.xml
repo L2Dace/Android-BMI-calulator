@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="note"><b>Ghi chú:</b></string>
+    <string name="note1"><b>18.5:</b> Thiếu cân</string>
+    <string name="note2"><b>18.5~24.9:</b> Khoẻ mạnh</string>
+    <string name="note3"><b>>25.0:</b> Thừa cân</string>
+</resources>
